@@ -37,9 +37,9 @@ This project transforms raw delivery data into a multi-page interactive dashboar
 ### 3. Regional & City Analysis
 <img width="759" height="425" alt="Dashboard3" src="https://github.com/user-attachments/assets/89ead9d3-c866-4d44-9848-aa95be0f749c" />
 **Focus:** Geographical distribution of sales across India.
-* **Map Visualization:** A bubble map showcasing order density across the country.
-* **City Rankings:** Tirupati ranks 1st in sales volume (₹43M), followed by Electronic City, Bangalore.
-* **Metric Comparison:** Provides side-by-side rankings for Sales, User Count, and Rating Count by city.
+ **Map Visualization:** A bubble map showcasing order density across the country.
+ **City Rankings:** Tirupati ranks 1st in sales volume (₹43M), followed by Electronic City, Bangalore.
+ **Metric Comparison:** Provides side-by-side rankings for Sales, User Count, and Rating Count by city.
 
 ---
 
