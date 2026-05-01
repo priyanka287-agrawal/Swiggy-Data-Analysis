@@ -46,16 +46,16 @@ This project transforms raw delivery data into a multi-page interactive dashboar
 ### 4. Strategic Insights
 <img width="762" height="431" alt="Insights" src="https://github.com/user-attachments/assets/0d1fd808-4ec0-4b76-9c29-8136b90ac1f6" />
 **Focus:** Business recommendations based on data trends.
-* **Growth Narrative:** Analyzes why sales spiked by 356% in 2018 and the subsequent 17% dip in 2019.
-* **Targeting:** Recommends specific marketing campaigns for the student demographic and VIP programs for high-value users.
-* **Market Expansion:** Identifies Raipur and Bikaner as high-potential regions for service scaling.
+ **Growth Narrative:** Analyzes why sales spiked by 356% in 2018 and the subsequent 17% dip in 2019.
+ **Targeting:** Recommends specific marketing campaigns for the student demographic and VIP programs for high-value users.
+ **Market Expansion:** Identifies Raipur and Bikaner as high-potential regions for service scaling.
 
 ---
 
 ## 📁 Repository Files KEY Folders
 * **Raw Dataset:** Original data files before processing.
 * **Proccesed Data (Python):** Cleaned CSVs ready for Power BI consumption.
-* **screenshot Dashboard:** High-resolution captures of the 4-page report.
+* **Screenshot Dashboard:** High-resolution captures of the 4-page report.
 
 ## ✍️ Author
 **Priyanka Agrawal**
